@@ -10,19 +10,21 @@ The workshop can be run online in [MyBinder](https://mybinder.org/) and [Google 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncsu-geoforall-lab/introduction-to-grass-processing-bu-2025/HEAD?urlpath=%2Fdoc%2Ftree%2Fworkshop_part_1_intro.ipynb)
 
+To run the notebook in MyBinder, click the launch button above.
+
+The software and dataset is downloaded and installed into the environment.
+Other notebooks and files can be accessed through the JupyterLab interface
+on the left.
+
 ### Google Colab
 
 <a target="_blank" href="https://colab.research.google.com/github/ncsu-geoforall-lab/introduction-to-grass-processing-bu-2025/blob/main/colab_notebook.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-In Colab:
-1. Download [prepared notebook](colab_notebook.ipynb)
-2. Open [Colab](https://colab.research.google.com)
-3. File -> Upload notebook
-4. Upload downloaded notebook
+To run the notebook in Google Colab, click the open button above.
 
-In Google Colab we don't have pre-installed the software needed, so go ahead and execute the first cell to install it. Also, in order to avoid repeating the installation, we merged all notebooks into one.
+In Google Colab, we don't have pre-installed the software needed, so go ahead and execute the first cell to install it. Also, in order to avoid the need to repeat the installation, we merged all notebooks into one long notebook.
 
 ## Author
 
