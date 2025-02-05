@@ -40,4 +40,4 @@ mkdir -p $HOME/.local/bin/
 ln -s $HOME/grass-src/bin.*/grass* $HOME/.local/bin/grass
 
 # download a sample dataset
-./download_data.sh
+sh ./download_data.sh
