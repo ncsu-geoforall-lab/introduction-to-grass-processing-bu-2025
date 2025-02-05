@@ -8,7 +8,13 @@ The workshop can be run online in [MyBinder](https://mybinder.org/) and [Google 
 
 ### MyBinder
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncsu-geoforall-lab/introduction-to-grass-processing-bu-2025/HEAD?urlpath=%2Fdoc%2Ftree%2Fworkshop_part_1_intro.ipynb)
+
 ### Google Colab
+
+<a target="_blank" href="https://colab.research.google.com/github/ncsu-geoforall-lab/introduction-to-grass-processing-bu-2025/blob/main/colab_notebook.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 In Colab:
 1. Download [prepared notebook](colab_notebook.ipynb)
