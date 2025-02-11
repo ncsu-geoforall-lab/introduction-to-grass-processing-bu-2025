@@ -26,6 +26,19 @@ To run the notebook in Google Colab, click the open button above.
 
 In Google Colab, we don't have pre-installed the software needed, so go ahead and execute the first cell to install it. Also, in order to avoid the need to repeat the installation, we merged all notebooks into one long notebook.
 
+### Local Setup
+
+Please, don't do a local setup for this short workshop so that we can focus on analysis.
+However, if you want to explore local setup, it might be advantageous to explore the
+[notebooks for Windows and macOS here](https://github.com/ncsu-geoforall-lab/GIS714-assignments/tree/main/GRASS_GIS_Foundations).
+For Linux, the setup should be relatively straightforward even with an virtual environment.
+Having GRASS GIS on a non-standard path (which is not on system path), will require:
+
+```python
+import os
+os.environ["PATH"] += ":/path/to/directory/where/grass/executable/is/"
+```
+
 ## Author
 
 Vaclav Petras, NC State University, Center for Geospatial Analytics
